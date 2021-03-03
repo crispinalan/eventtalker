@@ -1,5 +1,6 @@
 #   Event Talker - Talking Events Assistant
 
+This repository is mirrored at https://gitlab.com/crispinalan/eventtalker
 
 ## Overview
 
