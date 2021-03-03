@@ -1,0 +1,2 @@
+# eventtalker
+Talking events assistant
