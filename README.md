@@ -1,6 +1,5 @@
 #   Event Talker - Talking Events Assistant
 
-This repository is mirrored at https://gitlab.com/crispinalan/eventtalker
 
 ## Overview
 
@@ -39,8 +38,8 @@ Double click on a calendar date to enter an event (e.g. meetings, birthdays etc)
 
 * Event Talker version 0.3.0 alpha (testing) incorporates a basic talking weather service
 * Event Talker works with weather data from the BBC 
-* Using the options dialog to enter a location code for your area
-* Then use the Tools->Weather_Today menu item to use the talking weather service
+* Use the options dialog to enter a location code for your area and the city/area name
+* Then use the Tools->Weather_Today menu item to invoke the talking weather service
 
 ![](location.png)
 
@@ -68,7 +67,6 @@ Some examples of weather codes are shown below.
 5128581 New York USA
 4140963 Washington DC USA
 ```
-For best results, use weather data from nearby airports when you can.
 
 ## Installing - First Verify Deb Package
 
